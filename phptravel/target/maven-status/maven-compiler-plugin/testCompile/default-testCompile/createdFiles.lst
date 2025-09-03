@@ -1,0 +1,4 @@
+stepDefinitions\RegistrationSteps.class
+pages\RegistrationPage.class
+runners\TestRunner.class
+hooks\ApplicationHooks.class
